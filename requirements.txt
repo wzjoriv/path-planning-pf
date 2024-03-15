@@ -1,0 +1,3 @@
+larp==0.0.2
+numpy
+matplotlib
